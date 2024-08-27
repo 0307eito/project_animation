@@ -1,3 +1,0 @@
-#!/bin/bash
-jupyter nbextension install --user
-jupyter nbextension enable hide_input/main
